@@ -1,4 +1,3 @@
-# docclass_updated.py
 """
 A simple text classification library using a Naive Bayes classifier.
 

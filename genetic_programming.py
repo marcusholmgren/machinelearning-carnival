@@ -1,4 +1,3 @@
-# genetic_programming.py
 """
 A framework for Genetic Programming (GP) in Python.
 

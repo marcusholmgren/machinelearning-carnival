@@ -1,4 +1,3 @@
-# dorm_assignment_optimizer.py
 """
 A script to solve the Dorm Room Assignment optimization problem.
 
@@ -167,4 +166,3 @@ if __name__ == '__main__':
     # --- Print the results ---
     print(f"\nBest solution found has a total cost of: {lowest_cost}")
     print_solution(best_solution_found)
-    

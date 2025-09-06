@@ -1,4 +1,3 @@
-# flight_optimizer.py
 """
 A module for solving the group travel optimization problem using various
 metaheuristic algorithms.

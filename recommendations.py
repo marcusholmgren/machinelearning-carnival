@@ -1,4 +1,3 @@
-# recommendations_updated.py
 """
 A library for a basic collaborative filtering recommendation engine.
 
@@ -348,7 +347,7 @@ def get_recommended_items(prefs: PrefsDict, itemMatch: ItemMatch, user: str) -> 
 
 # --- Data Loading Utility ---
 
-def loadMovieLens(path: str = './ml-100k') -> PrefsDict:
+def load_movie_lens(path: str = './ml-100k') -> PrefsDict:
     """
     Loads the MovieLens 100k dataset.
 
